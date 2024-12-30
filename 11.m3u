@@ -1,15 +1,4 @@
 #EXTM3U
-Host:gg.hls2.xyz
-User-Agent:Mozilla/5.0 (Android 14; Mobile; rv:133.0) Gecko/133.0 Firefox/133.0
-Accept:video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
-Accept-Language:en-US
-Referer:https://www.aparatchi.com/
-Range:bytes=0-
-Origin:https://www.aparatchi.com
-Connection:keep-alive
-Sec-Fetch-Dest:video
-Sec-Fetch-Mode:cors
-Sec-Fetch-Site:cross-site
 #EXTINF:-1,mostanad
 https://cdn-azd2042.telewebion.com/ek/mostanad/live/480p/index.m3u8
 #EXTINF:-1,national_geographic
