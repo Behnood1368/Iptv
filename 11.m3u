@@ -30,7 +30,7 @@ https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1,bbc persian
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_sd_abr_v2.mpd
 #EXTINF:-1,bbc persian backup
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://www.aparatchi.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTINF:-1,voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1,khabar
