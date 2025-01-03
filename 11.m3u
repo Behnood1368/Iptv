@@ -28,7 +28,7 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1,iran international
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1,bbc persian1
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bb
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1,bbc persiàn2
 https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://www.aparatchi.com
 #EXTINF:-1,voice of america
