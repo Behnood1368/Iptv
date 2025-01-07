@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,mostanad,tvg-logo=https://armcade.com/view/articleid/blogimage/portalid/0/w/900/url/articleimages/mostanad-01.jpg
+#EXTINF:-1,mostanad
+tvg-logo=https://armcade.com/view/articleid/blogimage/portalid/0/w/900/url/articleimages/mostanad-01.jpg
 https://cdn-azd2042.telewebion.com/ek/mostanad/live/480p/index.m3u8
 #EXTINF:-1,national_geographic,tvg-logo=https://cdn.worldvectorlogo.com/logos/national-geographic.svg
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
