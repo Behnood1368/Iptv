@@ -1,120 +1,109 @@
 #EXTM3U
 #EXTINF:-1,mostanad
-tvg-logo=https://armcade.com/view/articleid/blogimage/portalid/0/w/900/url/articleimages/mostanad-01.jpg
 https://cdn-azd2042.telewebion.com/ek/mostanad/live/480p/index.m3u8
-#EXTINF:-1,national_geographic,tvg-logo=https://cdn.worldvectorlogo.com/logos/national-geographic.svg
+#EXTINF:-1,national_geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1,national geographic wild,tvg-logo=https://www.logo.wine/a/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.svg
+#EXTINF:-1,national geographic wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,love nature,tvg-logo=https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png
+#EXTINF:-1,love nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-#EXTINF:-1,love nature 4,ktvg-logo=https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png
+#EXTINF:-1,love nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,bbc earth,tvg-logo=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
+#EXTINF:-1,bbc earth
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d543d4e-eca6-11ee-aa87-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3fba5d72-a33c-439c-9a9e-2e4a85a113ad&userId=&serverSideAds=true
-#EXTINF:-1,mbc persia,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png
+#EXTINF:-1,mbc persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-#EXTINF:-1,ava family,tvg-logo=https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg
+#EXTINF:-1,ava family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1,hbo,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg
+#EXTINF:-1,hbo
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1,hbo2,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg
+#EXTINF:-1,hbo2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1,hbo comedy,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg
+#EXTINF:-1,hbo comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1,hbo zone,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg
+#EXTINF:-1,hbo zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1,hbo family,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg
+#EXTINF:-1,hbo family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1,iran international,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/c/cb/Iran_International.svg
+#EXTINF:-1,iran international
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1,bbc persian1,tvg-logo=https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg
+#EXTINF:-1,bbc persian
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_sd_abr_v2.mpd
+#EXTINF:-1,bbc persian backup
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,bbc persian2,tvg-logo=https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8
-#EXTINF:-1,voice of america,tvg-logo=https://projects.voanews.com/branding/img/voa-logo-tricolor-on-white_2x.png
+#EXTINF:-1,voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1,khabar,tvg-logo=https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%A8%D8%B1#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:IRINN_IRIB.png
+#EXTINF:-1,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
-#EXTINF:-1,tatlises tv,tvg-logo=https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3
+#EXTINF:-1,tatlises tv
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:-1,persiana music,tvg-logo=https://www.parsatv.com/index_files/channels/persianamusic.jpg
+#EXTINF:-1,persiana music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,mifa,tvg-logo=https://files.virgool.io/upload/users/2378554/posts/jppq8qtdn5f1/dqdiy5lhfbox.jpg
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa/playlist.m3u8
-#EXTINF:-1,mifa+,tvg-logo=https://files.virgool.io/upload/users/2378554/posts/jppq8qtdn5f1/dqdiy5lhfbox.jpg
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8
-#EXTINF:-1,rj tv,tvg-logo=https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88_%D8%AC%D9%88%D8%A7%D9%86_%28%D8%B3%D8%B1%D9%88%DB%8C%D8%B3_%D9%BE%D8%AE%D8%B4_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C%29#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Radio_javan_official_logo.png
+#EXTINF:-1,rj tv
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,pmc,tvg-logo=https://www.pmc.tv/assets/upload/pmc.png
+#EXTINF:-1,pmc
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1,avang,tvg-logo=https://bx-tv.com/wp-content/uploads/2021/06/avang.jpeg
+#EXTINF:-1,avang
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1,t2,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGvfoQGR-VEqu_tqog8D64Bj4GvSsdothiA&s
+#EXTINF:-1,t2
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1,navahang,tvg-logo=https://www.navahang.com/images/2019/03/navahang-logo-2.jpg
+#EXTINF:-1,navahang
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1,vevo 70s,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo 70s
 https://dbrb49pjoymg4.cloudfront.net/10001/99951122/hls/playlist.m3u8?ads.xumo_channelId=99951122&ads._fw_ifa_type=dpid&ads._fw_did=f70a2944-4fa5-4529-2825-e9c03be837cf&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Vevo70s&ads.csid=xumo_desktopweb_Vevo70s_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Music&ads._fw_content_category=IAB1-6&ads._fw_content_language=en&ads._fw_content_genre=Music%20%26%20Radio&ads._fw_content_rating=TV-PG&ads.xumo_contentId=3531&ads.xumo_contentName=Vevo70s&ads.xumo_providerId=3531&ads.xumo_providerName=Vevo70s&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951122&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.17.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
-#EXTINF:-1,vevo 80s,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo 80s
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54dc22-eca6-11ee-9371-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=74d6a881-a918-447f-8b76-b560e7cbee64&userId=&serverSideAds=true
-#EXTINF:-1,vevo 90s,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo 90s
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54dcb8-eca6-11ee-a7ec-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=738395a0-0bb5-4b7f-9e86-fa6b3c27ca05&userId=&serverSideAds=true
-#EXTINF:-1,vevo 2k,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo 2k
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54dd4e-eca6-11ee-9daf-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae4ea2d2-3479-4336-94dd-87aa67cc8c81&userId=&serverSideAds=true
-#EXTINF:-1,vevo country,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo country
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54df60-eca6-11ee-bc13-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbf096bd-ab34-4a14-aa34-419871ab2a09&userId=&serverSideAds=true
-#EXTINF:-1,vevo r&b,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo r&b
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54e12c-eca6-11ee-be3f-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=95dd1241-9c6b-4d62-8b4d-54d44c51dceb&userId=&serverSideAds=true
-#EXTINF:-1,vevo pop,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo pop
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54e2e4-eca6-11ee-8ea6-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=77dc116d-7f92-4047-a7d1-8c90b4c28c4e&userId=&serverSideAds=true
-#EXTINF:-1,vevo hiphop,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo hiphop
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54e08c-eca6-11ee-a21f-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef2e1ad3-af70-46cb-80a3-2dcd32245e4e&userId=&serverSideAds=true
-#EXTINF:-1,vevo retro rock,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLipjwxcM4y1RNR8styauqA9YUR7yr1bpyw&s
+#EXTINF:-1,vevo retro rock
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54deca-eca6-11ee-89d0-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8549b32e-3251-4a36-9752-543928f2947f&userId=&serverSideAds=true
-#EXTINF:-1,mtv music,tvg-logo=https://e7.pngegg.com/pngimages/364/194/png-clipart-i-want-my-mtv-1990s-1980s-logo-others-television-text-thumbnail.png
+#EXTINF:-1,mtv music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=131.0.6778&clientTime=1000&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2&checkedby:iptvcat.com
-#EXTINF:-1,mtv biggest pop,tvg-logo=https://iili.io/bF51d7.png
+#EXTINF:-1,mtv biggest pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1,persiana sport,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s
+#EXTINF:-1,persiana sport
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1,euro sports,tvg-logo=https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png
+#EXTINF:-1,euro sports
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1,NBA tv,tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png
+#EXTINF:-1,NBA tv
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1,bein sports,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png
+#EXTINF:-1,bein sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,irib 3,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LIO3Yev_PZiHnAQ0wE8xlIjQXmoLJ8hMIw&s
+#EXTINF:-1,irib 3
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
-#EXTINF:-1,irib varzesh,tvg-logo=https://en.wikipedia.org/wiki/IRIB_Varzesh#/media/File:Irib_varzesh_tv_logo.png
+#EXTINF:-1,irib varzesh
 https://cdn-azd2042.telewebion.com/varzesh/live/playlist.m3u8
-#EXTINF:-1,persiana junior,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxs3SL9t7yBe34saD6y2rPZ4sAbo4Dz8k6dQ&s
+#EXTINF:-1,persiana junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,disney xd,tvg-logo=https://logocreator.io/wp-content/uploads/2023/11/images-1.jpeg
+#EXTINF:-1,disney xd
 http://fl2.moveonjoy.com/DISNEY_XD/playlist.m3u8?token=none
-#EXTINF:-1,disney junior,tvg-logo=https://logocreator.io/wp-content/uploads/2023/11/images-1.jpeg
+#EXTINF:-1,disney junior
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1,disney channel,tvg-logo=https://logocreator.io/wp-content/uploads/2023/11/images-1.jpeg
+#EXTINF:-1,disney channel
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1,super rtl,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7QI0s_PP3UC3gShRjdXNh6wmxic6XeXULg&s
+#EXTINF:-1,super rtl
 https://s6.hopslan.com/superx1/index.m3u8?token=bab45b9081a1bdb7cea080aaa5341b08c3304a24-78fe176579ce8fdab79f9649e3b8a7d3-1733070182-1733059382
-#EXTINF:-1,persiana korea,tvg-logo=https://www.parsatv.com/index_files/channels/persianakorea.jpg
+#EXTINF:-1,persiana korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,fashion 4k,tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3oJbKj7PEbs-1wARhcJ0bEwd6iYWGeaJsw&s
+#EXTINF:-1,fashion 4k
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-#EXTINF:-1,faratar 4k,tvg-logo=https://www.sabadapp.com/wp-content/uploads/2022/11/faratar.png
+#EXTINF:-1,faratar 4k
 https://cdn-azd204c.telewebion.com/se/faratar/live/1080p/index.m3u8?isp=NA&city=NA
-#EXTINF:-1,rtl,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/b/be/RTL_Logo_2022.png
+#EXTINF:-1,rtl
 https://s6.hopslan.com/rtl2x1/index.m3u8?token=de923423daf522b08fe74ee6ad143639ab2467fa-cd2b658456f4b8421422a236284ece45-1733068706-1733057906
-#EXTINF:-1,rtl2,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/b/be/RTL_Logo_2022.png
+#EXTINF:-1,rtl2
 https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=d7f0a0f88b9474bd29ef68b33c2cc5278e20359a-de2d591323abad80b9d46a85a3736d25-1733069109-1733058309
-#EXTINF:-1,vox,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/630px-VOX_Logo_2013.svg.png
+#EXTINF:-1,vox
 https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b7c7e6f-56ea54496474a42922728b94d130f8a6-1733070336-1733059536
-#EXTINF:-1,zdf,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png
+#EXTINF:-1,zdf
 https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
