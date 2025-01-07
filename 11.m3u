@@ -27,10 +27,10 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1,iran international
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1,bbc persian
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_sd_abr_v2.mpd
-#EXTINF:-1,bbc persian backup
+#EXTINF:-1,bbc persian1
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,bbc persiàn2
+https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://www.aparatchi.com
 #EXTINF:-1,voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1,khabar
@@ -39,6 +39,10 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,persiana music
 https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,mifa
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referer=https://www.aparatchi.com/
+#EXTINF:-1,mifa+
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referer=https://www.aparatchi.com/
 #EXTINF:-1,rj tv
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,pmc
