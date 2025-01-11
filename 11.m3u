@@ -114,3 +114,6 @@ https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=d7f0a0f88b9474bd29ef68b
 https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b7c7e6f-56ea54496474a42922728b94d130f8a6-1733070336-1733059536
 #EXTINF:-1,zdf
 https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
+#EXTINF:-1,manoto
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/manoto/playlist.m3u8
