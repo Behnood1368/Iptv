@@ -125,3 +125,8 @@ https://ddv2new.iosplayer.ru/ddv2/premium313/mono.m3u8?token=none
 https://cors12.lolfile.xyz/https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8?nimblesessionid=14808
 #EXTINF:-1,mtvUSA
 http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1,mtv music
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8
