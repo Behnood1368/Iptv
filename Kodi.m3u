@@ -92,14 +92,13 @@ https://gg.hls2.xyz/live/manoto/playlist.m3u8|referrer=https://www.aparatchi.com
 #EXTINF:-1,wwe network
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/17082
 #EXTINF:-1,espn usa1
-https://hztnew.iosplayer.ru/hzt/eplayerespn_usa/mono.m3u8|https://cookiewebplay.xyz/|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://hztnew.iosplayer.ru/hzt/eplayerespn_usa/mono.m3u8|https://cookiewebplay.xyz/
 #EXTINF:-1,espn usa2
-https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8|https://cookiewebplay.xyz/|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8|https://cookiewebplay.xyz/
 #EXTINF:-1,discovery hd 
-https://ddv2new.iosplayer.ru/ddv2/premium313/mono.m3u8?token=none|https://cookiewebplay.xyz/|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddv2new.iosplayer.ru/ddv2/premium313/mono.m3u8?token=none|https://cookiewebplay.xyz/
 #EXTINF:-1,kpop
-https://cors12.lolfile.xyz/https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8?nimblesessionid=14808|referrer=https://idx.gdplayertv.to/|user-agent=Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-#EXTINF:-1,mtvUSA
-http://170.254.18.106/MTV/index.m3u8
+https://cors12.lolfile.xyz/https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8?nimblesessionid=14808|referrer=https://idx.gdplayertv.to/
+http://170.254.18.106/MTV/index.m3u8|referrer=https://cookiewebplay.xyz/
 #EXTINF:-1,mtv music
-https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8|referrer=https://cookiewebplay.xyz/|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8|referrer=https://cookiewebplay.xyz/
