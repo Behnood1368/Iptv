@@ -14,9 +14,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1,bbc earth2
 https://p11.magicplaces.eu/bbcearthsd/video.m3u8?remote=no_check_ip&token=75d775b95c5f814da8c71ec51818da4a87f366c1-7d2135dd998787fc51bf35a2ad00912f-1737064817-1737054017
 #EXTINF:-1,mbc persia
-https://gg.hls2.xyz/live/AP%20MBC%20Persia%20468P/chunks.m3u8|referer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20MBC%20Persia%20468P/chunks.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,ava family
-https://gg.hls2.xyz/live/AP%20AVA%20Family/playlist.m3u8|referer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20AVA%20Family/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,hbo
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1,hbo2
@@ -28,33 +28,33 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1,hbo family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1,iran international
-https://live.playstop.me/1816184091/chunklist_b1196000.m3u8|referrer=https://www.aparatchi.com/
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,bbc persian2
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,voice of america
-https://gg.hls2.xyz/live/AP%20VOA%20Persian%20480P/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20VOA%20Persian%20480P/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1,tatlises tv
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,persiana music
-https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,mifa
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,mifa+
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,rj tv
-https://gg.hls2.xyz/live/RJTV/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/RJTV/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,pmc
-https://gg.hls2.xyz/live/AP%20PMC%20HD/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20PMC%20HD/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,avang
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1,t2
-https://gg.hls2.xyz/live/T2/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/T2/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,navahang
-https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,persiana sport
-https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,euro sports
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1,NBA tv
@@ -88,17 +88,6 @@ https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b
 #EXTINF:-1,zdf
 https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
 #EXTINF:-1,manoto
-https://gg.hls2.xyz/live/manoto/playlist.m3u8|referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/manoto/playlist.m3u8|Referer=https%3A%2F%2Fwww.aparatchi.com%2F
 #EXTINF:-1,wwe network
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/17082
-#EXTINF:-1,espn usa1
-https://hztnew.iosplayer.ru/hzt/eplayerespn_usa/mono.m3u8|https://cookiewebplay.xyz/
-#EXTINF:-1,espn usa2
-https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8|https://cookiewebplay.xyz/
-#EXTINF:-1,discovery hd 
-https://ddv2new.iosplayer.ru/ddv2/premium313/mono.m3u8?token=none|https://cookiewebplay.xyz/
-#EXTINF:-1,kpop
-https://cors12.lolfile.xyz/https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8?nimblesessionid=14808|referrer=https://idx.gdplayertv.to/
-http://170.254.18.106/MTV/index.m3u8|referrer=https://cookiewebplay.xyz/
-#EXTINF:-1,mtv music
-https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8|referrer=https://cookiewebplay.xyz/
