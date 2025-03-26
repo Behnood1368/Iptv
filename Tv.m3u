@@ -153,7 +153,6 @@ https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://gg.hls2.xyz/live/manoto/playlist.m3u8
 #EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,WWE Network
-#EXTVLCOPT:http-referrer=http://moveonjoy.com/
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
 http://84.17.40.25/WWE/tracks-v1a1/mono.m3u8
 
