@@ -194,3 +194,6 @@ http://fl5.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1,tv1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+
+#EXTINF:-1,ifilm
+https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
