@@ -150,8 +150,7 @@ https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b
 https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-
-https://gg.hls2.xyz/live/manoto/playlist.m3u8
+https://ss.90minlive.online/live/manoto1/playlist.m3u8
 #EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,WWE Network
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
 http://84.17.40.25/WWE/tracks-v1a1/mono.m3u8
