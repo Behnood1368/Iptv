@@ -23,7 +23,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_c
 https://gg.hls2.xyz/live/AP%20MBC%20Persia%20468P/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-
 https://gg.hls2.xyz/live/AP%20AVA%20Family/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
