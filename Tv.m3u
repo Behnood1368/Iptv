@@ -2,10 +2,9 @@
 #EXTINF:-1 tvg-name="irib motanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png" ,mostanad
 https://cdn-azd2042.telewebion.com/ek/mostanad/live/480p/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" ,National Geographic (NGC)
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://zekonew.iosplayer.ru/zeko/premium328/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" ,Nat Geo Wild
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
