@@ -61,8 +61,8 @@ https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png",voice of america
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-
 https://gg.hls2.xyz/live/AP%20VOA%20Persian%20480P/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png" ,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
