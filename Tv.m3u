@@ -55,16 +55,14 @@ https://zekonew.newkso.ru/wind/premium694/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://zekonew.newkso.ru/wind/premium695/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png",voice of america
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/AP%20VOA%20Persian%20480P/playlist.m3u8
-
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png" ,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
@@ -73,10 +71,10 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/RJTV/playlist.m3u8
@@ -137,7 +135,7 @@ https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b
 https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://ss.90minlive.online/live/manoto1/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20Manoto/playlist.m3u8
 #EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,WWE Network
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
