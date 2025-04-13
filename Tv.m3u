@@ -175,7 +175,9 @@ https://ncdn.telewebion.com/nasim/live/playlist.m3u8
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
-http://fl5.moveonjoy.com/STARZ/index.m3u8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
 
 #EXTINF:-1,tv1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
