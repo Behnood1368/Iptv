@@ -95,7 +95,9 @@ https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
-http://185.189.225.157/EuroSport1/index.m3u8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://windnew.newkso.ru/wind/premium41/mono.m3u8
 #EXTINF:-1 tvg-id="Eurosports" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1 hd (rus)
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA TV
