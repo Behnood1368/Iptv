@@ -20,7 +20,7 @@ https://gg.hls2.xyz/live/AP%20AVA%20Family/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 https://v12.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
-http://fl2.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
+https://v16.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
 https://v13.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
