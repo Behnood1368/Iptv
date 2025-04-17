@@ -73,9 +73,7 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s" ,t2
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://gg.hls2.xyz/live/T2/playlist.m3u8
+https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
