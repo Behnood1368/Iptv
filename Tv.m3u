@@ -207,3 +207,6 @@ https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 
 #EXTINF:-1,ifilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+
+#EXTINF:-1 ,NETFLÌX CINEMANIA
+http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
