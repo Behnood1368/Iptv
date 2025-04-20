@@ -162,7 +162,7 @@ https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpLGpFZC4N2b-I2kB3dj6WiXfa6_ckrnqhg&s" ,zdf
 https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-http://31.42.184.175:8080/live/play/UlVJMVNHSkljWGhNWW1nclZHUllTSFZJU1ZvdmJsaG9NM05UUjJWMlRXWmpTRzlSVVhOM1IwdENRVDA9/351191
+http://xtv.ooo:8080/live/Ateeb443/432155/351191.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
