@@ -133,7 +133,7 @@ https://cdn-azd2042.telewebion.com/varzesh/live/playlist.m3u8
 https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" ,disney junior
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+https://v8.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuA9KZRr-_KrMp6s2b3sGXGeA21Uv4WOuFQ&s" ,disney channel
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
