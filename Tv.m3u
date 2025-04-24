@@ -148,7 +148,7 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" ,faratar 4k
-https://cdn-azd204c.telewebion.com/se/faratar/live/1080p/index.m3u8?isp=NA&city=NA
+https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.publicrelations-germany.com/wp-content/uploads/2013/10/Logo-rtl.svg" ,rtl
 https://s6.hopslan.com/rtl2x1/index.m3u8?token=de923423daf522b08fe74ee6ad143639ab2467fa-cd2b658456f4b8421422a236284ece45-1733068706-1733057906
