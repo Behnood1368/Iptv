@@ -178,9 +178,7 @@ https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 https://v16.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" ,ESPNU
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
+https://v16.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
