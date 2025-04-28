@@ -103,9 +103,7 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
 http://185.189.225.157/EuroSport1/index.m3u8
