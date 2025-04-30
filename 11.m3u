@@ -53,7 +53,7 @@ https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
-https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer="https://www.aparatchi.com/"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png",voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
@@ -62,13 +62,13 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
-https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8|referer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8|referer="https://www.aparatchi.com/"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referer"=https://www.aparatchi.com/"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referer="https://www.aparatchi.com/"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://rjtvhls.wns.live/hls/stream.m3u8
@@ -86,7 +86,7 @@ https://hls.avang.live/hls/stream.m3u8
 https://t2hls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
-https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8|referer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8|referer="https://www.aparatchi.com/"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
@@ -106,7 +106,7 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/640px-IRIB_TV3_LOGO.svg.png" ,irib 3
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
 https://cdn-azd2042.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" ,disney xd
@@ -130,7 +130,7 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-https://m3u.iranvids.com/manoto/output.m3u8|referrer=https://babaktv.com/
+https://m3u.iranvids.com/manoto/output.m3u8|referrer="https://babaktv.com/"
 
 #EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,impact wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
