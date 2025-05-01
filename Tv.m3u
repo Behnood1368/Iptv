@@ -18,15 +18,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_channelId=99951231&ads._fw_ifa_type=dpid&ads._fw_did=f70a2944-4fa5-4529-2825-e9c03be837cf&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BBCEarth&ads.csid=xumo_desktopweb_BBCEarth_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Documentary&ads._fw_content_category=IAB16&ads._fw_content_language=en&ads._fw_content_genre=Animals%20%26%20Nature&ads._fw_content_rating=TV-PG&ads.xumo_contentId=3921&ads.xumo_contentName=BBCEarth&ads.xumo_providerId=3921&ads.xumo_providerName=BBCEarth&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951231&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.17.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/AP%20MBC%20Persia%20468P/playlist.m3u8
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/AP%20AVA%20Family/playlist.m3u8
-
+https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 https://v4.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
 
@@ -57,9 +52,7 @@ https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png",voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
@@ -68,19 +61,13 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8
+https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://rjtvhls.wns.live/hls/stream.m3u8
@@ -98,9 +85,7 @@ https://hls.avang.live/hls/stream.m3u8
 https://t2hls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
-https://gg.hls2.xyz/live/AP%20Navahang/playlist.m3u8
+https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://hls.navahang.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
@@ -112,9 +97,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA TV
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+https://v4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" ,BeIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -122,7 +105,7 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/640px-IRIB_TV3_LOGO.svg.png" ,irib 3
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
 https://cdn-azd2042.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" ,disney xd
@@ -134,8 +117,7 @@ https://v8.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuA9KZRr-_KrMp6s2b3sGXGeA21Uv4WOuFQ&s" ,disney channel
 https://v13.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7QI0s_PP3UC3gShRjdXNh6wmxic6XeXULg&s" ,super rtl
-https://s6.hopslan.com/superx1/index.m3u8?token=bab45b9081a1bdb7cea080aaa5341b08c3304a24-78fe176579ce8fdab79f9649e3b8a7d3-1733070182-1733059382
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
 https://korhls.persiana.live/hls/stream.m3u8
@@ -146,22 +128,10 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" ,faratar 4k
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.publicrelations-germany.com/wp-content/uploads/2013/10/Logo-rtl.svg" ,rtl
-https://s6.hopslan.com/rtl2x1/index.m3u8?token=de923423daf522b08fe74ee6ad143639ab2467fa-cd2b658456f4b8421422a236284ece45-1733068706-1733057906
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/RTL_2_Logo.svg" ,rtl2
-https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=d7f0a0f88b9474bd29ef68b33c2cc5278e20359a-de2d591323abad80b9d46a85a3736d25-1733069109-1733058309
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/630px-VOX_Logo_2013.svg.png" ,vox
-https://s6.hopslan.com/voxx1/index.m3u8?token=46a11d30320579250275918972aae58f6b7c7e6f-56ea54496474a42922728b94d130f8a6-1733070336-1733059536
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpLGpFZC4N2b-I2kB3dj6WiXfa6_ckrnqhg&s" ,zdf
-https://s6.hopslan.com/zdf1111/index.m3u8?token=7c41f0b3a398c85867bdc1a68108676f0ff3d24e-4c8dd08809e91b4f92333901686779d6-1733069625-1733058825
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-#EXTVLCOPT:http-referrer=https://aparatchi.com/
-https://ss.90minlive.online/live/IR%20-%20Manoto/chunks.m3u8
+https://ss.90minlive.online/live/IR%20-%20Manoto/chunks.m3u8|REFERER=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,WWE Network(Classic)
+#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,impact wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,wwe network
@@ -177,9 +147,7 @@ https://v16.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 https://v16.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://zekonew.newkso.ru/zeko/premium313/mono.m3u8
+https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,kpop
 https://live.24hrkpop.com/hls/3/stream.m3u8
@@ -203,8 +171,6 @@ https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 #EXTINF:-1 ,NETFLÌX CINEMANIA
 http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
 
-#EXTINF:-1 ,SKY SPORT UK
-https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://xtv.ooo/live/Ateeb443/432155/244976.m3u8
 
 #EXTINF:-1 ,gem sport hd 
 https://cdn.sainaertebat.com/hls/gemsport/stream.m3u8
