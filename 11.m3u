@@ -52,7 +52,7 @@ https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
-https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
+https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png",voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
@@ -64,10 +64,10 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referer=https://aparatchi.com/?user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://rjtvhls.wns.live/hls/stream.m3u8
@@ -129,7 +129,7 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-https://ss.90minlive.online/live/IR%20-%20Manoto/chunks.m3u8|REFERER=https://aparatchi.com/?user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36
+https://ss.90minlive.online/live/IR%20-%20Manoto/chunks.m3u8|REFERER=https://aparatchi.com/?user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
 
 #EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,impact wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
