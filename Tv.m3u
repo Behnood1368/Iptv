@@ -64,7 +64,7 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa/playlist.m3u8
+http://175.107.244.52:4457/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
 https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8
