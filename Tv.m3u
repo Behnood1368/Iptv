@@ -151,9 +151,8 @@ https://v16.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,kpop
-https://live.24hrkpop.com/hls/3/stream.m3u8
-
+EXTINF:-1, tvg-ID="24hr kpop TV Broadcast" tvg-logo="https://live.24hrkpop.com/logo" tvg-tags="Music,streaming,owncast,kpop,kpop tv,24hrkop",24hr kpop TV Broadcast
+https://live.24hrkpop.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
