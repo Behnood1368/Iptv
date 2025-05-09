@@ -76,8 +76,10 @@ https://hls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NickMusic USA
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV(src01).uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" ,MTV music
+#EXTINF:-1 tvg-id="MTV(src01).uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" ,MTV HITS US
 http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
+#EXTINF:-1 ,MTV HITS UK
+https://vsd243.okcdn.ru/hls/8228926851639.m3u8/sig/rDpMQG--C0E/expires/1746879582075/srcIp/136.144.42.19/urls/45.136.21.79/clientType/0/srcAg/CHROME_ANDROID/mid/9361261600311/8228926851639_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
 
