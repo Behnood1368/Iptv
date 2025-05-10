@@ -133,7 +133,7 @@ https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
 http://xtv.ooo:8080/live/Arman007/Arman123/351191.ts
 
-#EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,impact wrestling
+#EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,wwe network
@@ -151,7 +151,7 @@ https://v16.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="General" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+#EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
@@ -159,15 +159,15 @@ https://ncdn.telewebion.com/nasim/live/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel",Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
+#EXTINF:-1 group-title="Movies" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tv1
+#EXTINF:-1 group-title="General" ,tv1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 
-#EXTINF:-1,ifilm
+#EXTINF:-1 group-title="Movies" ,ifilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" ,NETFLÌX CINEMANIA
+#EXTINF:-1 group-title="Movies" ,NETFLIX CINEMANIA
 http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
 
 
@@ -180,9 +180,9 @@ http://xtv.ooo:8080/live/Arman007/Arman123/346380.ts
 #EXTINF:-1 group-title="Sports" ,sky sport footbal
 http://xtv.ooo:8080/live/Arman007/Arman123/346241.ts
 
-#EXTINF:-1 group-title="General" ,Real Madrid tv
+#EXTINF:-1 group-title="Sports" ,Real Madrid tv
 http://xtv.ooo:8080/live/Arman007/Arman123/354047.ts
-#EXTINF:-1 group-title="General" ,laliga
+#EXTINF:-1 group-title="Sports" ,laliga
 http://xtv.ooo:8080/live/Arman007/Arman123/354039.ts
 
 
