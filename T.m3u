@@ -78,7 +78,7 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV(src01).uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" ,MTV HITS US
 http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
-#EXTINF:-1 group-title="Music" ,MTV HITS UK
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS UK
 http://xtv.ooo:8080/live/Arman007/Arman123/346635.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
@@ -161,10 +161,10 @@ http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General" ,tv1
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,tv1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" ,ifilm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://t3-cdn.eirib.ir/img/channel/event/channel_logo/Ifilm.png" ,ifilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" ,NETFLIX CINEMANIA
