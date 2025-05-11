@@ -182,9 +182,10 @@ http://xtv.ooo:8080/live/Arman007/Arman123/346380.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Premier.League.nz" ,sky sport footbal
 http://xtv.ooo:8080/live/Arman007/Arman123/346241.ts
 
-#EXTINF:-1 group-title="Sports" ,Real Madrid tv
+#EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" ,Real Madrid tv
 http://xtv.ooo:8080/live/Arman007/Arman123/354047.ts
-#EXTINF:-1 group-title="Sports" ,laliga
+
+#EXTINF:-1 group-title="Sports" tvg-id="LALIGA.TV.BAR.es" ,laliga
 http://xtv.ooo:8080/live/Arman007/Arman123/354039.ts
 
 
