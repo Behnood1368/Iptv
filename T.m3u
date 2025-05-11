@@ -79,7 +79,7 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTV(src01).uk" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s" ,MTV HITS US
 http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS UK  
+#EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS UK  
 http://xtv.ooo:8080/live/Arman007/Arman123/346635.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
