@@ -15,7 +15,7 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
-https://dbrb49pjoymg4.cloudfront.net/10001/99951231/hls/playlist.m3u8?ads.xumo_channelId=99951231&ads._fw_ifa_type=dpid&ads._fw_did=f70a2944-4fa5-4529-2825-e9c03be837cf&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BBCEarth&ads.csid=xumo_desktopweb_BBCEarth_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Documentary&ads._fw_content_category=IAB16&ads._fw_content_language=en&ads._fw_content_genre=Animals%20%26%20Nature&ads._fw_content_rating=TV-PG&ads.xumo_contentId=3921&ads.xumo_contentName=BBCEarth&ads.xumo_providerId=3921&ads.xumo_providerName=BBCEarth&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951231&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.17.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+http://xtv.ooo:8080/live/Arman007/Arman123/109978.ts
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
