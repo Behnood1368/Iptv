@@ -118,7 +118,7 @@ https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 https://v8.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuA9KZRr-_KrMp6s2b3sGXGeA21Uv4WOuFQ&s" ,disney channel
-https://v13.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/Arman007/Arman123/346464.ts
 
 
 
