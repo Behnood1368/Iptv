@@ -21,7 +21,8 @@ http://xtv.ooo:8080/live/Arman007/Arman123/109978.ts
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
-https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://familyhls.avatv.live/hls/stream.m3u8
+http://xtv.ooo:8080/live/Arman007/Arman123/351069.ts
+
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 http://xtv.ooo:8080/live/Arman007/Arman123/346567.ts
 
