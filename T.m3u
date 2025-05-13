@@ -88,7 +88,7 @@ https://hls.avang.live/hls/stream.m3u8
 https://wandering-river-1d09.behizaman0.workers.dev/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
-https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://hls.navahang.live/hls/stream.m3u8
+http://xtv.ooo:8080/live/Arman007/Arman123/351202.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
