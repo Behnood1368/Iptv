@@ -29,7 +29,7 @@ http://xtv.ooo:8080/live/Arman007/Arman123/346567.ts
 http://xtv.ooo:8080/live/Arman007/Arman123/346568.ts
 
 #EXTINF:-1 group-title="Movies" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
-https://v13.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/Arman007/Arman123/346558.ts
 
 #EXTINF:-1 group-title="Movies" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
 http://xtv.ooo:8080/live/Arman007/Arman123/346585.ts
