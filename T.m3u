@@ -45,7 +45,7 @@ http://xtv.ooo:8080/live/Arman007/Arman123/348595.ts
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
 http://wolvestv.net:8880/57566788880/204960656584/374156
-#EXTINF:-1 group-title="Movies" ,HBO ZONE
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" ,HBO ZONE
 http://xtv.ooo:8080/live/Arman007/Arman123/346572.ts
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
