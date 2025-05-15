@@ -3,10 +3,10 @@
 https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" ,National Geographic (NGC)
-http://xtv.ooo:8080/live/Arman007/Arman123/109977.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/109977.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" ,Nat Geo Wild
-http://xtv.ooo:8080/live/Arman007/Arman123/109976.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/109976.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-name="love nature sd" tvg-id="Love.Nature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s" ,love nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
@@ -15,13 +15,13 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
-http://xtv.ooo:8080/live/Arman007/Arman123/109978.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/109978.ts
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
-http://xtv.ooo:8080/live/Arman007/Arman123/351069.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/351069.ts
 
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 http://behi1368.chickenkiller.com/HBO/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
@@ -30,10 +30,10 @@ http://behi1368.chickenkiller.com/HBO/index.m3u8|user-agent=Mozilla/5.0 (iPhone;
 http://behi1368.chickenkiller.com/HBO_2/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
-http://xtv.ooo:8080/live/Arman007/Arman123/346558.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346558.ts
 
 #EXTINF:-1 group-title="Movies" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
-http://xtv.ooo:8080/live/Arman007/Arman123/346585.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346585.ts
 
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
 http://behi1368.chickenkiller.com/HBO_COMEDY/index.m3u8
@@ -42,7 +42,7 @@ http://behi1368.chickenkiller.com/HBO_COMEDY/index.m3u8
 http://behi1368.chickenkiller.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" ,HBO Signature
-http://xtv.ooo:8080/live/Arman007/Arman123/348595.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/348595.ts
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
 http://wolvestv.net:8880/57566788880/204960656584/374156
@@ -59,13 +59,13 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
-http://xtv.ooo:8080/live/Arman007/Arman123/351224.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/351224.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-http://xtv.ooo:8080/live/Arman007/Arman123/351097.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/351097.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
-http://xtv.ooo:8080/live/Arman007/Arman123/351098.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/351098.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://radioj.behizaman0.workers.dev/playlist.m3u8
@@ -77,10 +77,10 @@ https://hls.pmc.live/hls/stream.m3u8
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.International.hr" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s" ,MTV HITS US
-http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS UK  
-http://xtv.ooo:8080/live/Arman007/Arman123/346635.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346635.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
@@ -89,7 +89,7 @@ https://hls.avang.live/hls/stream.m3u8
 https://wandering-river-1d09.behizaman0.workers.dev/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
-http://xtv.ooo:8080/live/Arman007/Arman123/351202.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/351202.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
@@ -101,7 +101,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA TV
-http://xtv.ooo:8080/live/Arman007/Arman123/347303.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/347303.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-id="beIN.Sport.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" ,BeIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -113,13 +113,13 @@ https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" ,disney xd
-http://xtv.ooo:8080/live/Arman007/Arman123/346466.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346466.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" ,disney junior
-http://xtv.ooo:8080/live/Arman007/Arman123/346465.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346465.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuA9KZRr-_KrMp6s2b3sGXGeA21Uv4WOuFQ&s" ,disney channel
-http://xtv.ooo:8080/live/Arman007/Arman123/346464.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346464.ts
 
 
 
@@ -133,29 +133,29 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-http://xtv.ooo:8080/live/Arman007/Arman123/351191.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/351191.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,wwe network
-http://xtv.ooo:8080/live/Arman007/Arman123/383062.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/383062.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" ,ESPN
-http://xtv.ooo:8080/live/Arman007/Arman123/347276.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/347276.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" ,ESPN 2
-http://xtv.ooo:8080/live/Arman007/Arman123/347278.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/347278.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" ,ESPNU
-http://xtv.ooo:8080/live/Arman007/Arman123/347279.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/347279.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 http://xtv.ooo:8080/live/Arman007/Arman123/109974.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
-https://live.24hrkpop.com/hls/stream.m3u8
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=https://live.24hrkpop.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
@@ -171,23 +171,23 @@ https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,NETFLIX CINEMANIA
-http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Arena.it" ,sky sport arena
-http://xtv.ooo:8080/live/Arman007/Arman123/346378.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346378.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" ,sky sport formula 1
-http://xtv.ooo:8080/live/Arman007/Arman123/346380.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346380.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Premier.League.nz" ,sky sport footbal
-http://xtv.ooo:8080/live/Arman007/Arman123/346241.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346241.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" ,Real Madrid tv
-http://xtv.ooo:8080/live/Arman007/Arman123/354047.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/354047.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="LALIGA.TV.BAR.es" ,laliga
-http://xtv.ooo:8080/live/Arman007/Arman123/354039.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/354039.ts
 
 
 
