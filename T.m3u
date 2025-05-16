@@ -159,7 +159,7 @@ https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=https://live.24hrkpop.c
 
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
-#EXTINF:-1 group-title="Movies« ,epix movie
+#EXTINF:-1 group-title="Movies" ,epix movie
 https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346551.ts
 
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.-.Eastern.us" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
