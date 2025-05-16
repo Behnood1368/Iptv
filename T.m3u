@@ -152,7 +152,7 @@ https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/liv
 https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/347279.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
-http://xtv.ooo:8080/live/Arman007/Arman123/109974.ts
+https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/109974.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=https://live.24hrkpop.com/hls/stream.m3u8
