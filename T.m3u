@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #EXTINF:-1 group-title="Documentary" tvg-name="irib motanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png" ,mostanad
 https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" ,National Geographic (NGC)
