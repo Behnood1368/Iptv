@@ -50,8 +50,8 @@ https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/liv
 https://radioj.behizaman0.workers.dev/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
 https://hls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FPopstar!_artwork_horizontal_v2.jpg" tvg-name="popstarz.us«,popstarz us
-https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346661.ts
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-name="vevopop",vevo pop
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.International.hr" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s" ,MTV HITS US
 https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS UK  
