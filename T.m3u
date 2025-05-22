@@ -50,7 +50,7 @@ https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/liv
 https://radioj.behizaman0.workers.dev/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
 https://hls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-name="vevopop",vevo pop
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10" tvg-name="vevopop",vevo pop
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.International.hr" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s" ,MTV HITS US
 https://tstomu8.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
