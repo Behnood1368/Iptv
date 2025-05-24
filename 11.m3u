@@ -1,195 +1,130 @@
-#EXTM3U url-tvg=""
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+
 #EXTINF:-1 group-title="Documentary" tvg-name="irib motanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png" ,mostanad
 https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" ,National Geographic (NGC)
-http://xtv.ooo:8080/live/Arman007/Arman123/109977.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/109977.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" ,Nat Geo Wild
-http://xtv.ooo:8080/live/Arman007/Arman123/109976.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/109976.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="love nature sd" tvg-id="Love.Nature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s" ,love nature
-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-
+https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_2.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="love nature" tvg-id="Love.Nature.4K.ch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",love nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
-http://xtv.ooo:8080/live/Arman007/Arman123/109978.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/109978.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
-http://xtv.ooo:8080/live/Arman007/Arman123/351069.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/351069.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
-http://xtv.ooo:8080/live/Arman007/Arman123/346567.ts
-
+http://behi1368.chickenkiller.com/HBO/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
-http://xtv.ooo:8080/live/Arman007/Arman123/346568.ts
-
+http://behi1368.chickenkiller.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
-http://xtv.ooo:8080/live/Arman007/Arman123/346558.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/346558.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
-http://xtv.ooo:8080/live/Arman007/Arman123/346585.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/346585.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
-http://xtv.ooo:8080/live/Arman007/Arman123/346569.ts
-
+http://behi1368.chickenkiller.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" ,HBO Family
-http://xtv.ooo:8080/live/Arman007/Arman123/346570.ts
-
+http://behi1368.chickenkiller.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" ,HBO Signature
-http://xtv.ooo:8080/live/Arman007/Arman123/348595.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/348595.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
 http://wolvestv.net:8880/57566788880/204960656584/374156
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" ,HBO ZONE
-http://xtv.ooo:8080/live/Arman007/Arman123/346572.ts
-
+http://behi1368.chickenkiller.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
-http://xtv.ooo:8080/live/Arman007/Arman123/109977.ts
-
+https://behnood-ai.behizaman0.workers.dev/?url=https://bcserver.maniatream.com/live/ZZiozCTcevLxeacjJeL97A__/stream_0.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png",voice of america
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png" ,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
-http://xtv.ooo:8080/live/Arman007/Arman123/351224.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/351224.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-http://xtv.ooo:8080/live/Arman007/Arman123/351097.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/351097.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
-http://xtv.ooo:8080/live/Arman007/Arman123/351098.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/351098.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://radioj.behizaman0.workers.dev/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
 https://hls.pmc.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NickMusic USA
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10" tvg-name="vevopop",vevo pop
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.International.hr" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s" ,MTV HITS US
-http://xtv.ooo:8080/live/Arman007/Arman123/346634.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/346634.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS UK  
-http://xtv.ooo:8080/live/Arman007/Arman123/346635.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/346635.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s" ,t2
 https://wandering-river-1d09.behizaman0.workers.dev/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
-http://xtv.ooo:8080/live/Arman007/Arman123/351202.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/351202.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
 http://185.189.225.157/EuroSport1/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosports2" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" ,EuroSport 2
 http://185.189.225.157/EuroSport2/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA TV
-http://xtv.ooo:8080/live/Arman007/Arman123/347303.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/347303.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-id="beIN.Sport.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" ,BeIN SPORTS
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
+http://xtv.ooo:8080/live/Arman007/Arman123/381323.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/640px-IRIB_TV3_LOGO.svg.png" ,irib 3
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" ,disney xd
-http://xtv.ooo:8080/live/Arman007/Arman123/346466.ts
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest?cb=20250105082817" ,disney xd
+http://xtv.ooo:8080/live/Arman007/Arman123/346466.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" ,disney junior
-http://xtv.ooo:8080/live/Arman007/Arman123/346465.ts
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuA9KZRr-_KrMp6s2b3sGXGeA21Uv4WOuFQ&s" ,disney channel
-http://xtv.ooo:8080/live/Arman007/Arman123/346464.ts
-
-
-
+http://xtv.ooo:8080/live/Arman007/Arman123/346465.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniqnA6511NdQKmd2okvQNKIbHyWaIph5NIPYjjSGjOg&s" ,disney channel
+http://xtv.ooo:8080/live/Arman007/Arman123/346464.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
 https://korhls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe60BpcJ8F2RFT_bjx3qs_E3i6OF69aXvCag&s" ,fashion 4k
-https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" ,faratar 4k
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
-
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-http://xtv.ooo:8080/live/Arman007/Arman123/351191.ts
-
-
+http://xtv.ooo:8080/live/Arman007/Arman123/351191.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,wwe network
-http://xtv.ooo:8080/live/Arman007/Arman123/383062.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/383062.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" ,ESPN
-http://xtv.ooo:8080/live/Arman007/Arman123/347276.ts
-
+http://38.96.178.201/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" ,ESPN 2
-http://xtv.ooo:8080/live/Arman007/Arman123/347278.ts
-
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/medhigh.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" ,ESPNU
-http://xtv.ooo:8080/live/Arman007/Arman123/347279.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/347279.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
-http://xtv.ooo:8080/live/Arman007/Arman123/109974.ts
-
+http://xtv.ooo:8080/live/Arman007/Arman123/109974.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
-
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel",Sony Movie Channel
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
+#EXTINF:-1 group-title="Movies" tvg-logo="https://logowik.com/content/uploads/images/epix-tv-network7900.jpg" ,epix movie
+http://xtv.ooo:8080/live/Arman007/Arman123/346551.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.-.Eastern.us" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,tv1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg" ,ifilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,NETFLIX CINEMANIA
-http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
-
-
-#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Arena.it" ,sky sport arena
-http://xtv.ooo:8080/live/Arman007/Arman123/346378.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" ,sky sport formula 1
-http://xtv.ooo:8080/live/Arman007/Arman123/346380.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Premier.League.nz" ,sky sport footbal
-http://xtv.ooo:8080/live/Arman007/Arman123/346241.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" ,Real Madrid tv
-http://xtv.ooo:8080/live/Arman007/Arman123/354047.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="LALIGA.TV.BAR.es" ,laliga
-http://xtv.ooo:8080/live/Arman007/Arman123/354039.ts
-
-
-
-#EXTINF:-1 group-title="Sports" , BEIN SPORT XTRA
+http://xtv.ooo:8080/live/Ateeb443/432155/389460.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" ,sky sport arena
+http://xtv.ooo:8080/live/Arman007/Arman123/346378.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIATx5QrojCNktMQEEWlkea0hQNVZo8EdjkQ&s" ,sky sport formula 1
+http://xtv.ooo:8080/live/Arman007/Arman123/346380.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTalrSci9V_nStE9Al36CAgy16zD0e5DRqg9Q&s" ,sky sport footbal
+http://xtv.ooo:8080/live/Arman007/Arman123/346241.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
+http://xtv.ooo:8080/live/Arman007/Arman123/354047.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlZjE4NWUtMDdiNS00Yzk4LTlhNmYtODk4NjBiYjMxYWRmXkEyXkFqcGc@._V1_.jpg" ,laliga
+http://xtv.ooo:8080/live/Arman007/Arman123/354039.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" , BEIN SPORT XTRA
 https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
