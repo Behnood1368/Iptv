@@ -12,27 +12,27 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_2.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
 http://xtv.ooo:8080/live/Arman007/Arman123/109978.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
 http://xtv.ooo:8080/live/Arman007/Arman123/351069.ts
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
+#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 http://behi1368.chickenkiller.com/HBO/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
+#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
 http://behi1368.chickenkiller.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
+#EXTINF:-1 group-title="Film& Series" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
 http://xtv.ooo:8080/live/Arman007/Arman123/346558.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
+#EXTINF:-1 group-title="Film& Series" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
 http://xtv.ooo:8080/live/Arman007/Arman123/346585.ts
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
+#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
 http://behi1368.chickenkiller.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" ,HBO Family
+#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" ,HBO Family
 http://behi1368.chickenkiller.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" ,HBO Signature
+#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" ,HBO Signature
 http://xtv.ooo:8080/live/Arman007/Arman123/348595.ts
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
 http://wolvestv.net:8880/57566788880/204960656584/374156
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" ,HBO ZONE
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" ,HBO ZONE
 http://behi1368.chickenkiller.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc persian
 https://behnood-ai.behizaman0.workers.dev/?url=https://bcserver.maniatream.com/live/ZZiozCTcevLxeacjJeL97A__/stream_0.m3u8
@@ -82,7 +82,7 @@ http://xtv.ooo:8080/live/Arman007/Arman123/346466.ts
 http://xtv.ooo:8080/live/Arman007/Arman123/346465.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniqnA6511NdQKmd2okvQNKIbHyWaIph5NIPYjjSGjOg&s" ,disney channel
 http://xtv.ooo:8080/live/Arman007/Arman123/346464.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe60BpcJ8F2RFT_bjx3qs_E3i6OF69aXvCag&s" ,fashion 4k
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
@@ -106,15 +106,15 @@ http://xtv.ooo:8080/live/Arman007/Arman123/109974.ts
 https://live.24hrkpop.com/hls/stream.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://logowik.com/content/uploads/images/epix-tv-network7900.jpg" ,epix movie
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://logowik.com/content/uploads/images/epix-tv-network7900.jpg" ,epix movie
 http://xtv.ooo:8080/live/Arman007/Arman123/346551.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Starz.-.Eastern.us" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
+#EXTINF:-1 group-title="Film& Series" tvg-id="Starz.-.Eastern.us" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,tv1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg" ,ifilm
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg" ,ifilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,NETFLIX CINEMANIA
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,NETFLIX CINEMANIA
 http://xtv.ooo:8080/live/Ateeb443/432155/389460.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" ,sky sport arena
 http://xtv.ooo:8080/live/Arman007/Arman123/346378.ts
