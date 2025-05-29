@@ -130,3 +130,6 @@ https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/li
 https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 group-title="Music" ,musium 
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1 group-title="Music" ,NEW KPOP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
+
