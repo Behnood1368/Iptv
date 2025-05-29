@@ -7,7 +7,7 @@ https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/li
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" ,Nat Geo Wild
 https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/349871.ts
 #EXTINF:-1 group-title="Documentary" tvg-name="love nature sd" tvg-id="Love.Nature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s" ,love nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_2.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_2.m3u8fx
 #EXTINF:-1 group-title="Documentary" tvg-name="love nature" tvg-id="Love.Nature.4K.ch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",love nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
@@ -21,7 +21,7 @@ http://behi1368.chickenkiller.com/HBO/index.m3u8|user-agent=Mozilla/5.0 (iPhone;
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
 http://behi1368.chickenkiller.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
-https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/346558.ts
+https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
 https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/346585.ts
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
