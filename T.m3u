@@ -65,9 +65,9 @@ https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/li
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://behnood-ai.behizaman0.workers.dev/?url=https://back-persiana.maniatream.com/live/OfNo7112JHRJfu53X96dsg__/stream_0.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
-http://185.189.225.157/EuroSport1/index.m3u8
+http://185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosports2" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" ,EuroSport 2
-http://185.189.225.157/EuroSport2/index.m3u8
+http://185.189.225.150:85/Eurosport2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA TV
 https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/347303.ts
 #EXTINF:-1 group-title="Sports" tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-id="beIN.Sport.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" ,BeIN SPORTS
