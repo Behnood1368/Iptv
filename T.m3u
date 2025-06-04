@@ -123,7 +123,7 @@ https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/li
 #EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTalrSci9V_nStE9Al36CAgy16zD0e5DRqg9Q&s" ,sky sport footbal
 https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/346241.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
-https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/354047.ts
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlZjE4NWUtMDdiNS00Yzk4LTlhNmYtODk4NjBiYjMxYWRmXkEyXkFqcGc@._V1_.jpg" ,laliga
 https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/354039.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" , BEIN SPORT XTRA
