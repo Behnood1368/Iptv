@@ -29,7 +29,7 @@ http://behi1368.chickenkiller.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" ,HBO Family
 http://behi1368.chickenkiller.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" ,HBO Signature
-https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/348595.ts
+http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
 http://wolvestv.net:8880/57566788880/204960656584/374156
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" ,HBO ZONE
