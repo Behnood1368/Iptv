@@ -54,7 +54,7 @@ http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s" ,t2
-https://wandering-river-1d09.behizaman0.workers.dev/playlist.m3u8
+https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
