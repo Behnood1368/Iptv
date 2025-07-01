@@ -41,9 +41,9 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-https://behnood-ai.behizaman0.workers.dev/?url=https://gem2-website.aparatlive.online/live/SmF58MmSfRcirvV8bCW8dw__/stream_0.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6Ve7D_os_dVhVXk0B4quaLdRznIi8B-zYA&usqp=CAU" ,mifa+
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8|referer=Https://www.aparatchi.com/
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://radioj.behizaman0.workers.dev/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
