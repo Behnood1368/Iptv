@@ -131,3 +131,5 @@ https://behnood-ai.behizaman0.workers.dev/?url=https://glserver.aparatlive.onlin
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Live",FX Networks East Coast HD
 https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Live",Animal Planet US East HD
+https://tvpass.org/live/AnimalPlanetEast/hd
