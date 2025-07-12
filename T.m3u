@@ -139,3 +139,7 @@ https://tvpass.org/live/HBOSignatureEast/hd
 https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Live",Independent Film Channel US HD
 https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
+https://tvpass.org/live/FoxSports1/hd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
+https://tvpass.org/live/FoxSports2/hd
