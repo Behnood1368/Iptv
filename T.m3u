@@ -117,8 +117,7 @@ http://188.227.186.127:8080/catena-17-1149938-streamer-f1-tv_fhd/tracks-v1a1a2a3
 
 #EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlZjE4NWUtMDdiNS00Yzk4LTlhNmYtODk4NjBiYjMxYWRmXkEyXkFqcGc@._V1_.jpg" ,sky sports laliga
-http://190.92.10.66:4000/play/a001/index.m3u8
+ 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" , BEIN SPORT XTRA
 https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 group-title="Music" ,musium 
