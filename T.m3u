@@ -135,3 +135,5 @@ https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Live",FXX USA Eastern HD
+https://tvpass.org/live/FXXEast/hd
