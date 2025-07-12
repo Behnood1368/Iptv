@@ -126,3 +126,6 @@ https://maisum.behnoodzamannia.workers.dev/
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
 #EXTINF:-1 group-title="Sports" ,gem sport
 https://behnood-ai.behizaman0.workers.dev/?url=https://glserver.aparatlive.online/live/soTIwdLufLQtTolsng4bGA__/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
+https://tvpass.org/live/CinemaxEast/hd
