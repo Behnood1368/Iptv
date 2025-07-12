@@ -127,19 +127,21 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
 #EXTINF:-1 group-title="Sports" ,gem sport
 https://behnood-ai.behizaman0.workers.dev/?url=https://glserver.aparatlive.online/live/soTIwdLufLQtTolsng4bGA__/stream_0.m3u8
 
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Live",FX Networks East Coast HD
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
 https://tvpass.org/live/FXEast/hd
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Live",Animal Planet US East HD
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Documentary",Animal Planet US East HD
 https://tvpass.org/live/AnimalPlanetEast/hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Film& Series",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Live",FXX USA Eastern HD
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Li#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 group-title="show",FXX USA Eastern HD
 https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Live",Independent Film Channel US HD
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Film& Series",Independent Film Channel US HD
 https://tvpass.org/live/IFCEast/hd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="sport",Fox Sports 1 HD
 https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="sport",Fox Sports 2 HD
 https://tvpass.org/live/FoxSports2/hd
