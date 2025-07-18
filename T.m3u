@@ -43,6 +43,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
 https://gem2-website.aparatlive.online/live/SmF58MmSfRcirvV8bCW8dw__/stream_0.m3u8|referer=https://salintv.com/
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
+https://cdn-live.gemgroup.tv/live/mifa-plus.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
@@ -125,8 +127,7 @@ https://alanza.iptv2022.com/MaisUm/index.m3u8|referer=https://limex.tv/
 #EXTINF:-1 group-title="Music" ,NEW KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
 #EXTINF:-1 group-title="Sports" ,gem sport
-https://behnood-ai.behizaman0.workers.dev/?url=https://glserver.aparatlive.online/live/soTIwdLufLQtTolsng4bGA__/stream_0.m3u8
-
+https://cdn-live.gemgroup.tv/live/sport.m3u8
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
