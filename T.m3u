@@ -136,8 +136,6 @@ https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Film& Series",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Li#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
-https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 group-title="show",FXX USA Eastern HD
 https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Film& Series",Independent Film Channel US HD
