@@ -124,7 +124,7 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name
 #EXTINF:-1 group-title="Music" ,musium 
 https://alanza.iptv2022.com/sh/MaisUm/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3|referer=https://limex.tv/
 #EXTINF:-1 group-title="Music" ,NEW KPOP
-https://alanza.iptv2022.com/sh/Kpo_TV_Play/tracks-v1a1/mono.m3u8|refere=https://limex.tv/
+https://alanza.iptv2022.com/sh/Kpo_TV_Play/tracks-v1a1/mono.m3u8|referer=https://limex.tv/
 #EXTINF:-1 group-title="Sports" ,gem sport
 https://cdn-live.gemgroup.tv/live/sport.m3u8
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
