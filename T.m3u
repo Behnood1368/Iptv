@@ -10,7 +10,7 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3800655d-34f6-4292-9085-c9efe3f4f0a1/0.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1c543027-60be-4d83-a295-9c735badc5b2/1.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
