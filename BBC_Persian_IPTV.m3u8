@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bbcper" tvg-name="BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BBC_Persian_logo.png" group-title="Persian News",BBC Persian
-https://ss.90minlive.online/live/IR%20-%20BBC%20Persian/playlist.m3u8|Referer=https://aparatchi.com/&User-Agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:141.0) Gecko/141.0 Firefox/141.0
+#EXTVLCOPT:http-referer=https://jxoplay.xyz/
+#EXTVLCOPT:http-origin=https://jxoplay.xyz
+#EXTVLCOPT:http-extra-header=Accept:*/*
+#EXTVLCOPT:http-extra-header=Accept-Language:en-VI,fa-IR;q=0.5
+#EXTVLCOPT:http-extra-header=Accept-Encoding:gzip, deflate, br, zstd
+#EXTVLCOPT:http-extra-header=Connection:keep-alive
+#EXTVLCOPT:http-extra-header=Sec-Fetch-Dest:empty
+#EXTVLCOPT:http-extra-header=Sec-Fetch-Mode:cors
+#EXTVLCOPT:http-extra-header=Sec-Fetch-Site:cross-site
+
+#EXTINF:10.000,
+https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8
+
+#EXT-X-ENDLIST
