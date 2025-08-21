@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-PLAYLIST-TYPE:LIVE
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:141.0) Gecko/141.0 Firefox/141.0
 #EXTVLCOPT:http-referer=https://jxoplay.xyz/
@@ -14,8 +14,6 @@
 #EXTVLCOPT:http-extra-header=Sec-Fetch-Dest:empty
 #EXTVLCOPT:http-extra-header=Sec-Fetch-Mode:cors
 #EXTVLCOPT:http-extra-header=Sec-Fetch-Site:cross-site
-
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,CODECS="avc1.64001f,mp4a.40.2"
 https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8
 
 #EXT-X-ENDLIST
