@@ -114,9 +114,11 @@ https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,NETFLIX CINEMANIA
 https://wolfgang.behizaman0.workers.dev/playlist.m3u8?url=http://xtv.ooo:8080/live/769865786/7657865877/389462.ts
 
-#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIATx5QrojCNktMQEEWlkea0hQNVZo8EdjkQ&s" ,sky sport formula 1
-https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8|referer=https://jxoplay.xyz/
-
+#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIATx5QrojCNktMQEEWlkea0hQNVZo8EdjkQ&s" ,sky sport formula 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:141.0) Gecko/141.0 Firefox/141.0
+#EXTVLCOPT:http-referer=https://jxoplay.xyz/
+#EXTVLCOPT:http-origin=https://jxoplay.xyz
+https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
  
