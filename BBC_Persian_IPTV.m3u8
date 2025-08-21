@@ -7,13 +7,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:141.0) Gecko/141.0 Firefox/141.0
 #EXTVLCOPT:http-referer=https://jxoplay.xyz/
 #EXTVLCOPT:http-origin=https://jxoplay.xyz
-#EXTVLCOPT:http-extra-header=Accept:*/*
-#EXTVLCOPT:http-extra-header=Accept-Language:en-VI,fa-IR;q=0.5
-#EXTVLCOPT:http-extra-header=Accept-Encoding:gzip, deflate, br, zstd
-#EXTVLCOPT:http-extra-header=Connection:keep-alive
-#EXTVLCOPT:http-extra-header=Sec-Fetch-Dest:empty
-#EXTVLCOPT:http-extra-header=Sec-Fetch-Mode:cors
-#EXTVLCOPT:http-extra-header=Sec-Fetch-Site:cross-site
 https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8
 
 #EXT-X-ENDLIST
