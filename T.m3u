@@ -42,9 +42,9 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
-https://cdn-live.gemgroup.tv/live/mifa-music.m3u8
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus2/chunks.m3u8|referer=https://www.aparatchi.com/
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" ,mifa+
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa2/chunks.m3u8|referer=https://www.aparatchì.com
+https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa2/chunks.m3u8|referer=https://www.aparatchì.com/
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
