@@ -8,7 +8,10 @@ https://tvpass.org/live/NationalGeographicEast/hd
 https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1 group-title="Documentary" tvg-name="love nature sd" tvg-id="Love.Nature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s" ,love nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-
+#EXTINF:-1,HBO SIGNATURE
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1,HBO ZONE
+https://tvpass.org/live/HBOZoneEast/sd
 #EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
@@ -16,17 +19,17 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
-http://behi1368.chickenkiller.com/HBO/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/15.8.3 Safari/9537.53 VLC for iOS/3.6.4
+https://tvpass.org/live/HBOEast/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
-http://behi1368.chickenkiller.com/HBO_2/index.m3u8
+https://tvpass.org/live/HBO2East/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
-https://tvpass.org/live/FXMovieChannel/hd
+https://tvpass.org/live/FXMovieChannel/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
-https://tvpass.org/live/ShowtimeEast/hd
+https://tvpass.org/live/ShowtimeEast/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
-http://behi1368.chickenkiller.com/HBO_COMEDY/index.m3u8
+https://tvpass.org/live/HBOComedyEast/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" ,HBO Family
-http://behi1368.chickenkiller.com/HBO_FAMILY/index.m3u8
+https://tvpass.org/live/HBOFamilyEast/sd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
