@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-
+#EXTM3U
 #EXTINF:-1 group-title="Documentary" tvg-name="irib motanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png" ,mostanad
 https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" ,National Geographic (NGC)
@@ -62,6 +61,111 @@ https://gg.hls2.xyz/live/T2/chunks.m3u8|referer=https://aparatchi.com
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana spor
 https://ss.90minlive.online/live/Persiana%20Sports_/chunks.m3u8|referer=https://www.aparatchi.com/
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
+http://eurobehi.crabdance.com:85/Eurosport1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosports2" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" ,EuroSport 2
+http://eurobehi.crabdance.com:85/Eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA
+https://tvpass.org/live/NBATV/hd
+
+#EXTINF:-1 group-title="Sports" tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-id="beIN.Sport.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" ,BeIN SPORTS
+http://45.228.234.30:16000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/640px-IRIB_TV3_LOGO.svg.png" ,irib 3
+https://cdn.telewebion.com/tv3/live/720p/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest?cb=20250105082817" ,disney xd
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" ,disney junior
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniqnA6511NdQKmd2okvQNKIbHyWaIph5NIPYjjSGjOg&s" ,disney channel
+https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
+https://korhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" ,faratar 4k
+https://ncdn.telewebion.com/faratar/live/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
+https://gg.hls2.xyz/live/IR%20-%20Manoto/chunks.m3u8|referer=https://aparatchi.com/
+#EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,wwe network
+https://fl3.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" ,ESPN
+http://38.96.178.201/live/ESPNHD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" ,ESPN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/medhigh.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" ,ESPNU
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+https://live.24hrkpop.com/hls/stream.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Film& Series" tvg-id="Starz.-.Eastern.us" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
+https://tvpass.org/live/StarzEast/sd
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,tv1
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg" ,ifilm
+https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,cinemax
+https://tvpass.org/live/CinemaxEast/sd
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIATx5QrojCNktMQEEWlkea0hQNVZo8EdjkQ&s" ,sky sport formula 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:141.0) Gecko/141.0 Firefox/141.0
+#EXTVLCOPT:http-referer=https://jxoplay.xyz/
+#EXTVLCOPT:http-origin=https://jxoplay.xyz
+https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" , BEIN SPORT XTRA
+https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 group-title="Music" ,musium 
+https://alanza.iptv2022.com/sh/MaisUm/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3|referer=https://limex.tv/
+#EXTINF:-1 group-title="Music" ,NEW KPOP
+https://alanza.iptv2022.com/sh/Kpo_TV_Play/tracks-v1a1/mono.m3u8|referer=https://limex.tv/
+#EXTINF:-1 group-title="Sports" ,gem sport
+https://cdn-live.gemgroup.tv/live/sport.m3u8
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
+https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Documentary",Animal Planet US East HD
+https://tvpass.org/live/AnimalPlanetEast/hd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Film& Series",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 group-title="show",FXX USA Eastern HD
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Film& Series",Independent Film Channel US HD
+https://tvpass.org/live/IFCEast/hd
+
+EXTINF:-1 group-title="sports",Sky Sport 1
+https://a1xs.vip/700031
+#EXTINF:-1 group-title="sports",Sky Sport 2
+https://a1xs.vip/700032
+#EXTINF:-1 group-title="sports",Sky Sport 3
+https://a1xs.vip/700033
+#EXTINF:-1 group-title="sports",Sky Sport 4
+https://a1xs.vip/700034
+#EXTINF:-1 group-title="sports",Sky Sport 5
+https://a1xs.vip/700035
+#EXTINF:-1 group-title="sports",Sky Sport 6
+https://a1xs.vip/700036
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="sports",Fox Sports
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="sports",Fox Sports 2
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="sports",Fox Sports 3
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-108/playlist.m3u8https://ss.90minlive.online/live/Persiana%20Sports_/chunks.m3u8|referer=https://www.aparatchi.com/
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
 http://eurobehi.crabdance.com:85/Eurosport1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosports2" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" ,EuroSport 2
