@@ -155,8 +155,8 @@ https://a1xs.vip/700035
 #EXTINF:-1 group-title="sports",Sky Sport 6
 https://a1xs.vip/700036
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="sports",Fox Sports
-https://netplay.sv/multimedia/live/canal-010/playlist.m3u8referer="https://netplay.sv/"|user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://netplay.sv/multimedia/live/canal-010/playlist.m3u8referer=https://netplay.sv/|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="sports",Fox Sports 2
-https://netplay.sv/multimedia/live/canal-031/playlist.m3u8|referer="https://netplay.sv/"|user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://netplay.sv/multimedia/live/canal-031/playlist.m3u8|referer=https://netplay.sv/|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="sports",Fox Sports 3
-https://netplay.sv/multimedia/live/canal-108/playlist.m3u8|referer="https://netplay.sv/"|user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+https://netplay.sv/multimedia/live/canal-108/playlist.m3u8|referer=https://netplay.sv/|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
