@@ -59,7 +59,7 @@ https://hls.avang.live/hls/stream.m3u8
 https://gg.hls2.xyz/live/T2/chunks.m3u8|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana spor
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
 https://ss.90minlive.online/live/Persiana%20Sports_/chunks.m3u8|referer=https://www.aparatchi.com/
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
 http://eurobehi.crabdance.com:85/Eurosport1/playlist.m3u8
@@ -74,12 +74,7 @@ http://45.228.234.30:16000/play/a03q/index.m3u8
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest?cb=20250105082817" ,disney xd
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" ,disney junior
-http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniqnA6511NdQKmd2okvQNKIbHyWaIph5NIPYjjSGjOg&s" ,disney channel
-https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
 https://korhls.persiana.live/hls/stream.m3u8
 
@@ -89,14 +84,13 @@ https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 https://gg.hls2.xyz/live/IR%20-%20Manoto/chunks.m3u8|referer=https://aparatchi.com/
 #EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" ,wwe network
-https://fl3.moveonjoy.com/WWE/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" ,ESPN
-http://38.96.178.201/live/ESPNHD/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" ,ESPN 2
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/medhigh.m3u8
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" ,ESPN2
+https://tvpass.org/live/ESPN2/sd
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" ,ESPNU
-https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/sd
 #EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
@@ -113,11 +107,8 @@ https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,cinemax
 https://tvpass.org/live/CinemaxEast/sd
 
-#EXTINF:-1 group-title="Sports" tvg-id="Sky.Sport.F1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIATx5QrojCNktMQEEWlkea0hQNVZo8EdjkQ&s" ,sky sport formula 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 15; Mobile; rv:141.0) Gecko/141.0 Firefox/141.0
-#EXTVLCOPT:http-referer=https://jxoplay.xyz/
-#EXTVLCOPT:http-origin=https://jxoplay.xyz
-https://x4new.newkso.ru/x4/l7TmMsA1R0/mono.m3u8
+
+
 #EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
  
