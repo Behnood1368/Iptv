@@ -114,7 +114,7 @@ https://alanza.iptv2022.com/sh/MaisUm/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 group-title="Music" ,NEW KPOP
 https://alanza.iptv2022.com/sh/Kpo_TV_Play/tracks-v1a1/mono.m3u8|referer=https://limex.tv/
 #EXTINF:-1 group-title="Sports" ,gem sport
-https://cdn-live.gemgroup.tv/live/sport.m3u8
+https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8|referer=https://www.aparatchi.com/
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
