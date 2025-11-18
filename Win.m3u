@@ -35,12 +35,12 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" ,HBO ZONE
 http://behi1368.chickenkiller.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc farsi
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8|referer=https://aparatchi.com/
+https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png" ,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
-https://musichls.persiana.live/hls/stream.m3u8
+https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/AP%20Persiana%20Music/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlLlsqitvUIz_I7C_Cg2yGaLxrkrMqxg4cg&usqp=CAU" ,mifa
 https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa2/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" ,mifa+
@@ -63,7 +63,7 @@ https://t2.segavi2515.workers.dev/
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
-https://spstr.abntv.live/hls/psstream.m3u8
+https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA
@@ -79,7 +79,7 @@ https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" ,faratar 4k
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
-https://ca-rt.onetv.app/manototv/index-0.m3u8
+https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20Manoto/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
 
@@ -116,9 +116,7 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name
 #EXTVLCOPT:http-referer=https://limex.tv/
 https://alanza.iptv2022.com/sh/MaisUm/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3/
 #EXTINF:-1 group-title="Sports" ,gem sport
-#EXTVLCOPT:http-referer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 16; Mobile; rv:145.0) Gecko/145.0 Firefox/145.0
-https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8
+https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
