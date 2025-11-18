@@ -45,8 +45,7 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa2/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" ,mifa+
 https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa%20Plus2/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 16; Mobile; rv:145.0) Gecko/145.0 Firefox/145.0
-https://ss.90minlive.online/live/IR%20-%20GEM%20Mifa2/chunks.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
 https://restless-resonance-b4c4.segavi2515.workers.dev/
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
