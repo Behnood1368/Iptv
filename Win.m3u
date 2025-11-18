@@ -50,8 +50,6 @@ https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online
 https://restless-resonance-b4c4.segavi2515.workers.dev/
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
 https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 16; Mobile; rv:145.0) Gecko/145.0 Firefox/145.0
-https://gg.hls2.xyz/live/AP%20PMC%20HD/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10" tvg-name="vevopop",vevo pop
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS
