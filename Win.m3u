@@ -111,7 +111,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" , BEIN SPORT XTRA
 https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 group-title="Music" ,musium
-https://alanza.iptv2022.com/sh/MaisUm/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3/|referer=https://limex.tv/
+https://alanza.iptv2022.com/MaisUm/index.m3u8|referer=https://limex.tv/
 #EXTINF:-1 group-title="Sports" ,gem sport
 https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
