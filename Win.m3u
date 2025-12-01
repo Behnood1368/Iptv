@@ -46,7 +46,7 @@ https://spf-cors-onetv-u9rz.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gem
 https://spf-cors-onetv-u9rz.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
-https://restless-resonance-b4c4.segavi2515.workers.dev/
+https://proxy.kifod53855.workers.dev/?url=https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
 https://spf-cors-onetv-u9rz.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10" tvg-name="vevopop",vevo pop
@@ -56,7 +56,7 @@ http://104.238.205.28:8989/278602_.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s" ,t2
-https://t2.segavi2515.workers.dev/
+https://proxy.kifod53855.workers.dev/?url=https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
