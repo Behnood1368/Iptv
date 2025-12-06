@@ -34,7 +34,7 @@ https://tvpass.org/live/HBOFamilyEast/sd
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc farsi
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/chunks.m3u8%7Creferer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/chunks.m3u8|referer=https://www.aparatchi.com/
 
 #EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png" ,khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
@@ -112,7 +112,7 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name
 #EXTINF:-1 group-title="Music" ,maisum
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 #EXTINF:-1 group-title="Sports" ,gem Sports
-https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8%7Creferer=https://www.aparatchi.com/
+https://ss.90minlive.online/live/IR%20-%20GEM%20Sport2/chunks.m3u8|referer=https://www.aparatchi.com/
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
