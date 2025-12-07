@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/f45ff831-8e68-4feb-883f-a2e50a27d2c8
-https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/chunks.m3u8?nimblesessionid=71163928
+#EXT-X-VERSION:3
+№EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-PLAYLIST-TYPE:EVENT
+#EXT-X-ALLOW-CACHE:NO
+https://ca-rt.onetv.app/gemmifa/index-0.m3u8
