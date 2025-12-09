@@ -129,3 +129,5 @@ https://tvpass.org/live/IFCEast/hd
 https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Sports",Fox Sports 2 HD
 https://tvpass.org/live/FoxSports2/hd
+#EXTTINF:-1 group-tittle="Music" ,MTV biggest pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&profilesFromStream=true
