@@ -31,7 +31,7 @@ https://tvpass.org/live/HBOComedyEast/sd
 https://tvpass.org/live/HBOFamilyEast/sd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+https://proxy.kifod53855.workers.dev/?url=https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc farsi
 https://gg.hls2.xyz/live/IR%20-%20BBC%20Persian/chunks.m3u8|referer=https://www.aparatchi.com/
