@@ -20,7 +20,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
 https://tvpass.org/live/HBOEast/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
-https://tvpass.org/live/HBO2East/sd
+http://45.228.234.30:16000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Film& Series" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/sd
 #EXTINF:-1 group-title="Film& Series" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
@@ -117,7 +117,7 @@ https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
 https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Documentary",Animal Planet US East HD
-https://tvpass.org/live/AnimalPlanetEast/hd
+http://45.228.234.30:16000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Film& Series",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 group-title="show",FXX USA Eastern HD
