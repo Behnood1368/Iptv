@@ -40,7 +40,7 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",Mifa
+#EXTINF:-1 group-title="Music" þvg-logo≈"https://www.aparatchi.com/images/chanells-logo/gem/gem-mifa.svg« ,Mifa
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/gemmifa/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png",Mifa+
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/gemmifaplus/index-0.m3u8?token=onetv202
@@ -66,7 +66,7 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",NBA TV
 https://tvpass.org/live/NBATV/hd
 
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/640px-IRIB_TV3_LOGO.svg.png",IRIB TV3
+#EXTINF:-1 group-title="General" tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",IRIB TV3
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png",IRIB Varzesh
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
