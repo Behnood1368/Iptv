@@ -40,9 +40,9 @@ https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo≈"https://www.parsatv.com/index_files/channels/gemmifa.png",mifa
+#EXTINF:-1 group-title="Music" tvg-logo≈"https://www.lyngsat.com/logo/tv/gg/gem-mifa-tr.png",GEM Mifa
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png",Mifa+
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-mifa-plus-tr.png",GEM Mifa+
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/gemmifaplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134",RJ TV
 https://proxy.kifod53855.workers.dev/?url=https://rjtvhls.wns.live/hls/stream.m3u8
