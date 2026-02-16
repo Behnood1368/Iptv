@@ -54,7 +54,7 @@ https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 http://200.35.176.154:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel",Avang
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s",T2
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tapesh-2-us.png",T2
 https://proxy.kifod53855.workers.dev/?url=https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg",Navahang
 https://hls.navahang.live/hls/stream.m3u8
