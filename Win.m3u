@@ -1,132 +1,139 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentary" tvg-name="irib motanad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png" ,mostanad
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png",IRIB Mostanad
 https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" ,National Geographic (NGC)
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
-#EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" ,Nat Geo Wild
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png",Nat Geo Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1 group-title="Documentary" tvg-name="love nature sd" tvg-id="Love.Nature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s" ,love nature
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 group-title="Film& Series" ,HBO SIGNATURE
+
+#EXTINF:-1 group-title="Film& Series",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 group-title="Film& Series" ,HBO ZONE
+#EXTINF:-1 group-title="Film& Series",HBO Zone
 https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 group-title="Documentary" tvg id="BBC.Earth.ENG.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,bbc earth
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="Film& Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png" ,mbc persia
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg" ,ava family
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" ,HBO
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO
 https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" ,HBO2
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png",HBO 2
 http://45.228.234.30:16000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Film& Series" tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" ,FX Movie Channel
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 group-title="Film& Series" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" ,Paramount Network
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",Paramount Network
 https://tvpass.org/live/ShowtimeEast/sd
-#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" ,HBO Comedy
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 group-title="Film& Series" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" ,HBO Family
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",HBO Family
 https://tvpass.org/live/HBOFamilyEast/sd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" ,iran international
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
 https://proxy.kifod53855.workers.dev/?url=https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU" ,bbc farsi
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png" ,khabar
+#EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png",IRIB Khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s" ,persiana music
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",mifa
+#EXTINF:-1 group-title="Music" tvg-logo≈"https://www.lyngsat.com/logo/tv/gg/gem-mifa-tr.png",GEM Mifa
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" ,mifa+
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-mifa-plus-tr.png",GEM Mifa+
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134" ,rj tv
+#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134",RJ TV
 https://proxy.kifod53855.workers.dev/?url=https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png",PMC
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10" tvg-name="vevopop",vevo pop
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10",Vevo Pop
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="MTV.Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,MTV HITS
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png",MTV Hits
 http://200.35.176.154:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel" ,avang
+#EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel",Avang
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s" ,t2
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s",T2
 https://proxy.kifod53855.workers.dev/?url=https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg" ,navahang
+#EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg",Navahang
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s" ,persiana sport
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s",Persiana Sport
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" ,EuroSport 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png",Eurosport 1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:-1 group-title="Sports" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" ,NBA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",NBA TV
 https://tvpass.org/live/NBATV/hd
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/640px-IRIB_TV3_LOGO.svg.png" ,irib 3
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",IRIB TV3
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png" ,irib varzesh
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png",IRIB Varzesh
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s" ,persiana korea
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" ,faratar 4k
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png",IRIB Faratar 4K
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w" ,manoto
+#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QH_456t_c37cPWSrUzbM4mvgvvk29ibpZS6kQyrXLyDW8v3u_G3LnSeJmVnOLy68-thQaU3gzJGgZQ0vYgKMOfgdR1T68fYuTBB25w",Manoto
 https://freedom.goodcampir.workers.dev/playlist.m3u8?url=https://ca-rt.onetv.app:8443/manototv/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Sports" tvg-id="IMPACTWRESTLING" tvg-name="Impact Wrestling" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg" ,impact wrestling
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg",Impact Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
 
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" ,ESPN
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" ,ESPN2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 group-title="Sports" tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" ,ESPNU
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png",ESPNU
 https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/sd
-#EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr K-Pop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s" ,nasim
+
+#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s",IRIB Nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Film& Series" tvg-id="Starz.-.Eastern.us" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1" , STARZ
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://decider.com/wp-content/uploads/2023/02/starz-logo.jpg?quality=75&strip=all&w=680&h=356&crop=1",Starz
 https://tvpass.org/live/StarzEast/sd
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png" ,tv1
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png",IRIB TV1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
-#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg" ,ifilm
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg",iFilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
-#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s" ,cinemax
+#EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy546-MMptnwyxpF_GnLke4E5PY7uCjK_uhA&s",Cinemax
 https://tvpass.org/live/CinemaxEast/sd
 
-
-
-#EXTINF:-1 group-title="Sports" tvg-id="Real.Madrid.TV.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" ,Real Madrid tv
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
- 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200" , BEIN SPORT XTRA
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200",BeIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
-#EXTINF:-1 group-title="Music" ,maisum
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://ntcplay.ntcscripts.com.br/uploads/thumbs/1768848805_615353965_25921052727530067_4192221312953739124_n.png" ,Maisum
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
-#EXTINF:-1 group-title="Sports" ,gem Sports
+#EXTINF:-1 group-title="Sports",GEM Sports
 https://proxy.kifod53855.workers.dev/?url=https://ca-rt.onetv.app/gemsport/index-0.m3u8
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Film& Series",Cinemax Eastern Feed HD
+
+#EXTINF:-1 group-title="Film& Series",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Film& Series",FX Networks East Coast HD
+#EXTINF:-1 group-title="Film& Series",FX Networks East Coast HD
 https://tvpass.org/live/FXEast/hd
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Documentary",Animal Planet US East HD
+#EXTINF:-1 group-title="Documentary",Animal Planet US East HD
 http://45.228.234.30:16000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Film& Series",HBO Signature (HBO 3) Eastern HD
+#EXTINF:-1 group-title="Film& Series",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 group-title="show",FXX USA Eastern HD
 https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Film& Series",Independent Film Channel US HD
+#EXTINF:-1 group-title="Film& Series",Independent Film Channel US HD
 https://tvpass.org/live/IFCEast/hd
 
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Sports",Fox Sports 1 HD
+#EXTINF:-1 group-title="Sports",Fox Sports 1 HD
 https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Sports",Fox Sports 2 HD
+#EXTINF:-1 group-title="Sports",Fox Sports 2 HD
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 group-title="Music" ,MTV biggest pop
+
+#EXTINF:-1 group-title="Music",MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&profilesFromStream=true
