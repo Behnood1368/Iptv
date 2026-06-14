@@ -36,7 +36,7 @@ https://tvpass.org/live/HBOFamilyEast/sd
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
 https://proxy.kifod53855.workers.dev/?url=https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU",BBC Persian
-https://GLWizHSTB42.glwiz.com:443/BBCPersian_HD.m3u8?user=sgls76551&session=80b2a58e7331ca4ea6536965358d20a24af7c64b72f23232ef59f2cd4b76c6a0&group_id=76551
+https://GLWizHSTB43.glwiz.com:443/BBCPersian_HD/BBCPersian_High.m3u8?user=sgls76551&session=98826c7759b3a52c5b6b60a8cf6ef13f4af7c64b72f23232ef59f2cd4b76c6a0&hlsid=HTTP_ID_1&group_id=76551         ~ $ yt-dlp -g "https://GLWizHSTB43.glwiz.com:443/BBCPersian_HD.m3u8?user=sgls76551&amp;session=53226a24e9440fa99cc9744fffebfde44af7c64b72f23232ef59f2cd4b76c6a0&amp;group_id=76551
 #EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png",IRIB Khabar
 https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
