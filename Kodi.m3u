@@ -17,7 +17,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="News" ,voa
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
-https://live.livetvstream.co.uk/LS-63503-1 /chunklist_b1196000.m3u8
+https://live.livetvstream.co.uk/LS-63503-1/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png",IRIB Khabar
