@@ -1,96 +1,96 @@
 #EXTM3U
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/IRIB_Mostanad_logo.png/200px-IRIB_Mostanad_logo.png",IRIB Mostanad
-https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
+https://ncdn.telewebion.com/mostanad/live/playlist.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",Love Nature
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.ts
 #EXTINF:-1 group-title="General",Tapesĥ
-https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+https://iptv.tapesh.tv/tapeshiran/playlist.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.ts
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/MBC_Persia_Logo.svg/1200px-MBC_Persia_Logo.svg.png",MBC Persia
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.ts
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
+https://familyhls.avatv.live/hls/stream.ts
 
 #EXTINF:-1 group-title="News" ,voa
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.ts
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
-https://live.livetvstream.co.uk/LS-63503-1/index.m3u8
+https://live.livetvstream.co.uk/LS-63503-1/index.ts
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU",BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.ts
 #EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png",IRIB Khabar
-https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
+https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.ts?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
+https://musichls.persiana.live/hls/stream.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134",RJ TV
-https://rjtvhls.wns.live/hls/stream.m3u8
+https://rjtvhls.wns.live/hls/stream.ts
 #EXTINF:-1 group-title="Music" ,pmc
-https://pmchls.wns.live/hls/stream.m3u8
+https://pmchls.wns.live/hls/stream.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNabMZ50-Y6lf8Pvax7znyifVj88hrWsTTS99OQMNiA&s=10",Vevo Pop
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.namasha.com/images/avatar/6654645870-176x176.jpg?d=channel",Avang
-https://hls.avang.live/hls/stream.m3u8
+https://hls.avang.live/hls/stream.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tapesh-2-us.png",T2
-https://proxy.kifod53855.workers.dev/?url=https://t2hls.wns.live/hls/stream.m3u8
+https://proxy.kifod53855.workers.dev/?url=https://t2hls.wns.live/hls/stream.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg",Navahang
-https://hls.navahang.live/hls/stream.m3u8
+https://hls.navahang.live/hls/stream.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s",Persiana Sport
-https://af.ayas.ir/hls2/persiana.m3u8
+https://af.ayas.ir/hls2/persiana.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png",Eurosport 1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-referrertde.mpd
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",IRIB TV3
-https://cdn.telewebion.com/tv3/live/720p/index.m3u8
+https://cdn.telewebion.com/tv3/live/720p/index.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png",IRIB Varzesh
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+https://ncdn.telewebion.com/varzesh/live/playlist.ts
 
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
+https://korhls.persiana.live/hls/stream.ts
 
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png",IRIB Faratar 4K
-https://ncdn.telewebion.com/faratar/live/playlist.m3u8
+https://ncdn.telewebion.com/faratar/live/playlist.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg",Impact Wrestling
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.ts?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr K-Pop TV Broadcast
-https://live.24hrkpop.com/hls/stream.m3u8
+https://live.24hrkpop.com/hls/stream.ts
 
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s",IRIB Nasim
-https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+https://ncdn.telewebion.com/nasim/live/playlist.ts
 
 
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png",IRIB TV1
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+https://ncdn.telewebion.com/tv1/live/playlist.ts
 #EXTINF:-1 group-title="Film& Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg",iFilm
-https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+https://ncdn.telewebion.com/ifilm/live/playlist.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/Bein.jpg/Zz1mNmExMWMyZWVlNmExMWVmOWJhNjRhYzEwMjk2ODg1YQ==?width=1200",BeIN Sports Xtra
-https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
+https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com&uid=1ipsmvfeh-8goc-gag-h1zn-uqafhaeusqj/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ntcplay.ntcscripts.com.br/uploads/thumbs/1768848805_615353965_25921052727530067_4192221312953739124_n.png" ,Maisum
-https://stream.ichibantv.com:3230/hybrid/play.m3u8
+https://stream.ichibantv.com:3230/hybrid/play.ts
 
 #EXTINF:-1 group-title="Documentary",Animal Planet US East HD
-http://45.228.234.30:16000/play/a009/index.m3u8
+http://45.228.234.30:16000/play/a009/index.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV Biggest Pop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&profilesFromStream=true
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31livestitch/master.ts?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&profilesFromStream=true
 #EXTINF:-1 group-title="Sports" ,bein Sports fr
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.ts
 #EXTINF:-1 group-title="Sports", georgia
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+https://tv.cdn.xsg.ge/gpb-1tv/index.ts
 #EXTINF:-1 group-title="Sports" ,sprt tv
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts
 #EXTINF:-1 group-title="Film & Seriès" ,cinex
-https://gcinemahls.wns.live/hls/stream.m3u8
+https://gcinemahls.wns.live/hls/stream.ts
