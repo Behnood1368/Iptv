@@ -93,8 +93,7 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Documentary",pbs nature
-https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_desktopweb_PBSNature_ssai&ads._fw_app_bundle=&ads.ifa_type=dpid&ads.did=87d9c4ec-58b9-86a2-51e6-68165cb5f8b9&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=IAB16&ads.xumo_contentName=PBSNature&ads.xumo_providerName=PBSNature&ads._fw_content_language=en&ads.assetId=XMYXMFY05OZX85&ads._fw_content_genre=Animals%2CNature&ads.xumo_providerId=3849&ads._fw_content_rating=TV-PG&ads.channelId=99951195&ads.xumo_platform=desktopweb&ads.site_id=22453&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
-
+https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/8702a6f0-93df-49fd-960d-16fd06ee9a3d/3.m3u8
 #EXTINF:-1 group-title="Film & Series",hbo2
 http://45.228.234.30:16000/play/a009/index.m3u8
 
