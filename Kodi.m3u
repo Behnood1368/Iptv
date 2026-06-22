@@ -126,3 +126,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAss
 
 #EXTINF:-1 group-title="Film & Series",xumo action
 https://live-content.xumo.com/3845/content/XM0XFMQGKZICWS/28846726/1.m3u8
+
+#EXTINF:-1 group-title="Film & Series",hbo family
+http://72.1.184.5:8089/play/a07r/index.m3u8
