@@ -111,3 +111,6 @@ https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Series",cinex
 https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="99951469" tvg-name="HBO Boxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99951469/168x168.png?type=color_onBlack" group-title="Sports",HBO Boxing
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_desktopweb_PBSNature_ssai&ads._fw_app_bundle=&ads.ifa_type=dpid&ads.did=87d9c4ec-58b9-86a2-51e6-68165cb5f8b9&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=IAB16&ads.xumo_contentName=PBSNature&ads.xumo_providerName=PBSNature&ads._fw_content_language=en&ads.assetId=XMYXMFY05OZX85&ads._fw_content_genre=Animals%2CNature&ads.xumo_providerId=3849&ads._fw_content_rating=TV-PG&ads.channelId=99951195&ads.xumo_platform=desktopweb&ads.site_id=22453&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
