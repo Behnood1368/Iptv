@@ -95,8 +95,7 @@ https://stream.ichibantv.com:3230/hybrid/play.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo≈"https://image.xumo.com/v1/channels/channel/99951195/600x600.webp?type=color_onBlack",pbs nature
 https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/8702a6f0-93df-49fd-960d-16fd06ee9a3d/3.m3u8
 #EXTINF:-1 group-title="Film & Series",hbo2
-http://45.228.234.30:16000/play/a009/index.m3u8
-
+http://72.1.184.5:8089/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&profilesFromStream=true
 
@@ -135,3 +134,6 @@ http://72.1.184.5:8089/play/a07o/index.m3u8
 
 #EXTINF:-1 group-title="Film & Series",hbo plus
 http://72.1.184.5:8089/play/a07q/index.m3u8
+
+#EXTINF:-1 group-title="Film & Series",hbo extrem
+http://72.1.184.5:8089/play/a07s/index.m3u8
