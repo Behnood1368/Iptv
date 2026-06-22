@@ -137,3 +137,15 @@ http://72.1.184.5:8089/play/a07q/index.m3u8
 
 #EXTINF:-1 group-title="Film & Series",hbo extrem
 http://72.1.184.5:8089/play/a07s/index.m3u8
+
+#EXTINF:-1 group-title="Film & Series",star
+http://72.1.184.5:8089/play/a03h/index.m3u8
+
+#EXTINF:-1 group-title="Film & Series",SONY
+http://72.1.184.5:8089/play/a09v/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",nat geo1
+http://72.1.184.5:8089/play/a06s/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",nat geo2
+http://72.1.184.5:8089/play/a06s/index.m3u8
