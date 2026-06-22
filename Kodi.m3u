@@ -92,7 +92,7 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name
 #EXTINF:-1 group-title="Music" tvg-logo="https://ntcplay.ntcscripts.com.br/uploads/thumbs/1768848805_615353965_25921052727530067_4192221312953739124_n.png",Maisum
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://image.xumo.com/v1/channels/channel/99951437/168x168.png?type=color_onBlack",pbs nature
+#EXTINF:-1 group-title="Documentary" tvg-logo≈"https://image.xumo.com/v1/channels/channel/99951195/600x600.webp?type=color_onBlack",pbs nature
 https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/8702a6f0-93df-49fd-960d-16fd06ee9a3d/3.m3u8
 #EXTINF:-1 group-title="Film & Series",hbo2
 http://45.228.234.30:16000/play/a009/index.m3u8
