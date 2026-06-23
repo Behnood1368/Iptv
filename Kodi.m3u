@@ -149,3 +149,6 @@ http://72.1.184.5:8089/play/a06s/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",nat geo2
 http://72.1.184.5:8089/play/a06s/index.m3u8
+
+#EXTINF:-1 group-title="Film & Series",hbo hits
+http://103.148.44.38:8000/play/a028/index.m3u8
