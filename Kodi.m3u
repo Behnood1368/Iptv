@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/IRIB_Mostanad_logo.png",IRIB mostanad
-https://live-aburayhan1113.telewebion.ir/ek/mostanad/live/playlist.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
@@ -25,9 +23,6 @@ https://live.livetvstream.co.uk/LS-63503-1/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQW8dx84FCZWtLOdN_6U0acnRYXeqAZLvAA&usqp=CAU",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/logoyab.png",IRIB Khabar
-https://cdn-azd2042.telewebion.com/ek/irinn/live/480p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPHGi1fBs5j-PIK0ztdrKhb75zQxVvErtzA&s",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
@@ -56,8 +51,6 @@ https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png",Eurosport 1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-referrertde.mpd
 
-#EXTINF:-1 group-title="General" tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-tv3.svg",IRIB TV3
-https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png",IRIB Varzesh
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
@@ -65,8 +58,6 @@ https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 #EXTINF:-1 group-title="Film & Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png",IRIB Faratar 4K
-https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.wrestleview.com/wp-content/uploads/2022/01/IMPACT-Wrestling-1.jpeg",Impact Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=596b4a39-235b-4286-a850-487ab239028b&serverSideAds=false
@@ -76,9 +67,6 @@ https://live.24hrkpop.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s",IRIB Nasim
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
-
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/1200px-IRIBTV1.svg.png",IRIB TV1
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg",iFilm
 https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
