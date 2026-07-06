@@ -81,7 +81,7 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/is_lat=0&us_privacy=1YNN&ads.site_name
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Documentary" ,PBS NATURE
-https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/34226e84-823c-4c8c-ace5-a7eb3a40d571/4.m3u8
+https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/e3f6de2a-02fa-4d6e-b399-0e6f31f28844/4.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_[PLATFORM]_PBSNature_ssai&ads._fw_app_bundle=[app_bundle]&ads.ifa_type=[IFA_TYPE]&ads.did=[IFA]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads.xumo_contentName=PBSNature&ads.xumo_providerName=[PROVIDER_NAME]&ads._fw_content_language=[content_language]&ads.assetId=[ASSET_ID]&ads._fw_content_genre=[content_genre]&ads.xumo_providerId=[PROVIDER_ID]&ads._fw_content_rating=[content_rating]&ads.channelId=99951195&ads.xumo_platform=[PLATFORM]&ads.site_id=22453
 #EXTINF:-1 group-title="Film & Series",hbo2
 http://72.1.184.5:8089/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV Biggest Pop
