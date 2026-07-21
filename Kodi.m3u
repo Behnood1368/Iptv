@@ -48,8 +48,6 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s",Persiana Sport
 https://phd2hls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png",Eurosport 1
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-referrertde.mpd
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png",IRIB Varzesh
@@ -67,11 +65,6 @@ https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://live.24hrkpop.com/logo",24hr K-Pop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
-#EXTINF:-1 group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9rwDe5_HhvgM46exCd9lGziyPSAwN95vgQ&s",IRIB Nasim
-https://ncdn.telewebion.com/nasim/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Series" tvg-logo="https://bayanbox.ir/view/3548161106981621407/ifilm-new-logo-6.jpg",iFilm
-https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
