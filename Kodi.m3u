@@ -111,8 +111,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951548/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="Sports",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951383&ads.xumo_streamId=99951383&ads.channelId=99951383&ads.channelName=NBAFASTChannel&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_coppa=0&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_content_language=&ads.asnw=&ads.xumo_channelName=NBAFASTChannel&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=e50b8e17-3d1c-4cfa-8bf9-ae84cc693bd1&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 
-#EXTINF:-1 group-title="Film & Series",xumo action
-https://live-content.xumo.com/3845/content/XM0XFMQGKZICWS/28846726/1.m3u8
 
 #EXTINF:-1 group-title="Film & Series",hbo family
 http://72.1.184.5:8089/play/a07r/index.m3u8
