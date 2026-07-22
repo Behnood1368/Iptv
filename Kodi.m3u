@@ -79,7 +79,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 #EXTINF:-1 group-title="Sports",bein Sports fr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36&Referer=https://1nyaler.streamhostingcdn.top/
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 group-title="Sports",georgia
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
