@@ -45,13 +45,8 @@ https://proxy.kifod53855.workers.dev/?url=https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://play-lh.googleusercontent.com/dKEBArz3a0ViUsHPTMz2IMIST3tzmh9NXIFsETrUPqHOfrNEPrxcQOvrO9ym7XmQQg",Navahang
 https://hls.navahang.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5iSSk-S7hqQgeWooZz3hzzTJ5KHx-2pD_Q&s",Persiana Sport
-https://phd2hls.persiana.live/hls/stream.m3u8
 
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/640px-Iribvarzesh2022.png",IRIB Varzesh
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDb3NuY8xb1a7gQS0lbcTIItW2k4_HjsFXw&s",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
