@@ -28,7 +28,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RJ_icon_logo.png/revision/latest?cb=20241025142134",RJ TV
-https://rjtvhls.wns.live/hls/stream.m3u8
+https://radio.sr-api.ir/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Music",pmc
 https://pmchls.wns.live/hls/stream.m3u8
