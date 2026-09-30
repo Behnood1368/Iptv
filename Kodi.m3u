@@ -67,12 +67,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ntcplay.ntcscripts.com.br/uploads/thumbs/1768848805_615353965_25921052727530067_4192221312953739124_n.png",Maisum
-https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
-
-
-#EXTINF:-1 group-title="Film & Series",hbo2
-http://72.1.184.5:8089/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&profilesFromStream=true
 
@@ -100,18 +95,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951548/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="Sports",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951383&ads.xumo_streamId=99951383&ads.channelId=99951383&ads.channelName=NBAFASTChannel&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_coppa=0&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_content_language=&ads.asnw=&ads.xumo_channelName=NBAFASTChannel&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=e50b8e17-3d1c-4cfa-8bf9-ae84cc693bd1&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 
-
-#EXTINF:-1 group-title="Film & Series",hbo family
-http://72.1.184.5:8089/play/a07r/index.m3u8
-
 #EXTINF:-1 group-title="Film & Series",hbo
-http://72.1.184.5:8089/play/a07o/index.m3u8
+http://57.128.231.171:8080/243/index.m3u8
 
-#EXTINF:-1 group-title="Film & Series",hbo plus
-http://72.1.184.5:8089/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Film & Series",hbo2
+http://57.128.231.171:8080/246/index.m3u8
 
-#EXTINF:-1 group-title="Film & Series",hbo extrem
-http://72.1.184.5:8089/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Film & Series",hbo3
+http://57.128.231.171:8080/246/index.m3u8
 
 #EXTINF:-1 group-title="Film & Series",star
 http://72.1.184.5:8089/play/a03h/index.m3u8
@@ -125,5 +116,4 @@ http://72.1.184.5:8089/play/a06s/index.m3u8
 #EXTINF:-1 group-title="Documentary",nat geo2
 http://72.1.184.5:8089/play/a06s/index.m3u8
 
-#EXTINF:-1 group-title="Film & Series",hbo hits
-http://103.148.44.38:8000/play/a028/index.m3u8
+
