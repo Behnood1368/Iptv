@@ -96,11 +96,11 @@ http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Film & Series" ,hbo3
 http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Series",star
-http://72.1.184.5:8089/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Film & Series",starz
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 
 #EXTINF:-1 group-title="Film & Series",SONY
-http://72.1.184.5:8089/play/a09v/index.m3u8
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Documentary",nat geo
 http://45.190.187.183:8080/play/a184
